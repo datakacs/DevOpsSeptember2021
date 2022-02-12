@@ -1,0 +1,1 @@
+kusmae viac naraz

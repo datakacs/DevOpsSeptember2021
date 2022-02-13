@@ -1,6 +1,6 @@
 skuska
 skuska2
-
+pridam 
 zmena
 zmena
 zmena

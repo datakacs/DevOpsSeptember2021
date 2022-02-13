@@ -7,4 +7,7 @@ asd
 ####### prazne riadky #######
 
 asdsa
+
+
+pridame
 d
